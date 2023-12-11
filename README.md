@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">A passionate engineer with experience in building web applications with React as well as experience with different frontend UI libraries and backend frameworks.</h3>
+<h3 align="center">A passionate engineer with experience in building web applications with Javascript/Typescript as well as experience with different frontend UI libraries and backend frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saldanaj97&label=Profile%20views&color=0e75b6&style=flat-square" alt="saldanaj97" /> </p>
 
