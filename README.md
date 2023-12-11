@@ -37,4 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saldanaj97&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="saldanaj97" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saldanaj97&show_icons=true&theme=tokyonight&locale=en" alt="saldanaj97" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=saldanaj97&show_icons=true&theme=tokyonight&locale=en" alt="saldanaj97" /></p>
