@@ -12,7 +12,3 @@
         <li>💼 LinkedIn: <a href="https://linkedin.com/in/juan-saldana">linkedin.com/in/juan-saldana</a></li>
     </ul>
 </div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=saldanaj97&show_icons=true&theme=tokyonight&locale=en" alt="saldanaj97" />
-</div>
