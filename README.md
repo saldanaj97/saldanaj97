@@ -6,9 +6,9 @@
 
 <div>
     <ul>
-        <li>🔍 View my portfolio at <a href="https://juancsaldana.com">https://juancsaldana.com</a></li>
-        <li>📄 Check out my professional experience <a href="https://docs.google.com/document/d/1uziqWB0PZMeOtWaplyu45jTNqNo6uaIc/edit">here</a></li>
+        <li>🖼️ Portfolio <a href="https://juancsaldana.com">https://juancsaldana.com</a></li>
+        <li>💼 Resume: <a href="https://docs.google.com/document/d/1uziqWB0PZMeOtWaplyu45jTNqNo6uaIc/edit">here</a></li>
         <li>✉️ Email: <strong>saldanaj97@gmail.com</strong></li>
-        <li>💼 LinkedIn: <a href="https://linkedin.com/in/juan-saldana">linkedin.com/in/juan-saldana</a></li>
+        <li>👤 LinkedIn: <a href="https://linkedin.com/in/juan-saldana">linkedin.com/in/juan-saldana</a></li>
     </ul>
 </div>
