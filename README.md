@@ -13,7 +13,7 @@
       <img alt="Instagram"
            src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
     </a>
-    <h3>Product-minded software engineer building and shipping full-stack SaaS applications. </h3>
+    <h2>Product-minded software engineer building and shipping full-stack SaaS applications. </h2>
 </div>
 
 <div>
